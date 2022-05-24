@@ -1,3 +1,3 @@
-const toCamelCase = str => {
-    return null;
+export const toCamelCase = str => {
+    return '';
 };
