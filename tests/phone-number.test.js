@@ -1,4 +1,4 @@
-import {createPhoneNumber, createPhoneNumberSolution} from "../src/phone-number";
+import {createPhoneNumber, createPhoneNumberSolution} from '../src/phone-number';
 
 describe('phone number', () => {
     it('should return numbers in phone format', () => {
